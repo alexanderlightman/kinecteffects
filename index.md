@@ -7,7 +7,7 @@
 Our group plans on using the depth and skeleton tracking technology found in the Microsoft Xbox Kinect camera.  One user at a time will be hooked up to our device, which will be a wearable.  An Arduino will be mounted to the chest of the participant and connected to a motion sensor and photo-resistor on both the participants hands.  One hand will be in control of the "ice" effect, and the other hand will control the "fire".  As the user closes one of their hands, they will see a visual representation of ice, for example, moving up their arms and into their body.  We will animate the facial expression to change with the temperature as well.  Along with visual representations of fire and ice, the participant will also be wearing 2 Peltier elements on each arm, which will change temperature and heat the user's skin up according to what the user is seeing on the screen.  If we get this project working quickly and have the ability to purchase more materials it would be nice to add the ability to have a second user and have two participants battle each other, but for now the game will be one user trying to balance their own temperature so that they don't freeze or catch on fire.
 
 ### Resource List
-- XBox Kinect v2
+- Xbox Kinect v2
 - Microsoft Kinect software for PC
 - Processing code
 - Projector
