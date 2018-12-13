@@ -14,7 +14,6 @@ Our group plans on using the depth and skeleton tracking technology found in the
 - Projector screen
 - Arduino
 - Photoresistors
-- Motion sensors
 - Elastic bands
 - Wire
 - Peltier elements
