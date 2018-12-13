@@ -1,5 +1,32 @@
-## Welcome to GitHub Pages
+## Kinect Visual Effetcs: Haptics Final Project
+### Project Video
+Embed video here.
+### Project Description
 
+### Resource List
+- XBox Kinect v2
+- Microsoft Kinect software for PC
+- Processing code
+- Projector
+- Projector screen
+### Team Members
+
+### Sketch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## SAMPLE CODE
 You can use the [editor on GitHub](https://github.com/alexanderlightman/kinecteffects/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
