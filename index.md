@@ -18,12 +18,6 @@ Our group plans on using the depth and skeleton tracking technology found in the
 - Wire
 - Peltier elements
 
-### Team Members
-- Joss Gitlin
-- Julian Torres
-- Ben Gillespie
-- Alex Lightman
-
 ### Sketch
 
 ### Processing Code
@@ -36,6 +30,11 @@ Insert processing code here
 Insert Arduino code here
 ```
 
+### Team Members
+- Joss Gitlin
+- Julian Torres
+- Ben Gillespie
+- Alex Lightman
 
 
 
