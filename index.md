@@ -18,8 +18,9 @@ Our group plans on using the depth and skeleton tracking technology found in the
 - Wire
 - Peltier elements
 
-### Sketch
-## Insert sketch here
+### Sketches
+![Sketch 1](https://i.ibb.co/vmWfyZ5/Haptic-Graphic1-Artboard-1-4x.png)
+![Sketch 2](https://i.ibb.co/LvTxWwM/Haptic-Graphic2-Artboard-1-4x.png)
 
 ### Processing Code (Kinect Communication)
 ```markdown
