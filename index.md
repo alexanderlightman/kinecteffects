@@ -15,10 +15,11 @@ Our group plans on using the depth and skeleton tracking technology found in the
 - Projector
 - Projector screen
 - Arduino
-- Photoresistors
 - Elastic bands
 - Wire
 - Peltier elements
+- C02 Tank, hose, blaster
+- LED lights
 
 ### Sketches
 ![Sketch 1](https://i.ibb.co/vmWfyZ5/Haptic-Graphic1-Artboard-1-4x.png)
